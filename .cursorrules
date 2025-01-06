@@ -1,0 +1,4 @@
+- Encore.ts is a backend framework for building type-safe distributed systems. For all features and usage, refer to the official documentation at https://encore.dev/docs/ts
+- encore run to run the server
+
+
